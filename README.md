@@ -1,3 +1,3 @@
 # html-portfolio
 
-<!-- this is the portfolio -->
+# this is the portfolio
